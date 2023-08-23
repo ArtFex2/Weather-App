@@ -33,6 +33,6 @@ The Real-time Weather Display App is a Python application that utilizes PySimple
 - Beautiful Soup: A library for web scraping purposes.
 - Requests: A library for making HTTP requests.
 
-CREDIT TO : @ClearCode
+CREDIT TO : ClearCode
 
 
